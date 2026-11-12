@@ -91,6 +91,3 @@ To open the Edge Lab locally, run `python -m http.server --directory app` and go
 - "Before the match" tennis prices in the Edge Lab are midpoints plus 1¢, because only midpoints were saved for that moment.
 - This is research, not betting advice.
 
-## AI assistance
-
-The analysis was developed with Claude (Anthropic): first in a Claude chat alongside Google Colab, then verified and turned into the Edge Lab with Claude Code. Chat link: _[add shared chat link here]_
